@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#  My name is Ayush and I am currently an intern at Paybridge Technologies!
+#  In the past I have worked with Apple and Our Wave Hub in a partner co-op program!
+#  I am a developer who mainly develops in TypeScript!
+#  I look forward to learning new things, if you would like to speak with me add me on Discord! `Ashh#8675`
+
 <!--
 **LaZeAsh/LaZeAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
