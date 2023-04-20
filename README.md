@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###  My name is Ayush and I am currently an intern at Paybridge Technologies!
+###  My name is Ayush and I am currently an incoming intern at Cohere!
 ###  In the past I have worked with Apple and Our Wave Hub in a partner co-op program!
 ###  I am a developer who mainly develops in TypeScript!
 ###  I look forward to learning new things, if you would like to speak with me add me on Discord! `Ashh#8675`
