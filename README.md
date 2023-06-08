@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###  My name is Ayush and I am currently an incoming intern at Cohere!
+###  My name is Ayush
 ###  In the past I have worked with Apple and Our Wave Hub in a partner co-op program!
 ###  I am currently working on RubiksCube-AI
 ###  I am a developer who mainly develops in TypeScript!
