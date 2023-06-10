@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ###  My name is Ayush
-###  In the past I have worked with Apple and Our Wave Hub in a partner co-op program!
 ###  I am currently working on RubiksCube-AI
 ###  I am a developer who mainly develops in TypeScript!
 ###  I look forward to learning new things, if you would like to speak with me add me on Discord! `Ashh#8675`
