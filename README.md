@@ -3,7 +3,7 @@
 ###  My name is Ayush
 ###  I am currently working on RubiksCube-AI
 ###  I am a developer who mainly develops in TypeScript!
-###  I look forward to learning new things, if you would like to speak with me add me on Discord! `Ashh#8675`
+###  I look forward to learning new things, if you would like to speak with me add me on Discord! `lazeash`
 
 <!--
 **LaZeAsh/LaZeAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
